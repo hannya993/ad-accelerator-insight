@@ -1,0 +1,92 @@
+id,name,location_raw,city,state,country,continent,lat,lng,summary
+1,ZeroAvia,Hollister CA,Hollister,California,USA,North America,36.85,-121.4,Hydrogen fuel-cell aircraft powertrain
+2,Block Aero,Bangkok Thailand,Bangkok,,Thailand,Asia,13.76,100.5,Blockchain based digitization of aviation assets
+3,Skyways,Austin TX,Austin,Texas,USA,North America,30.27,-97.74,Autonomous VTOL drones for payload delivery
+4,AI-Redefined,Montreal Canada,Montreal,Quebec,Canada,North America,45.5,-73.57,Open-source framework for training AI & humans
+5,Deepwave Digital,Philadelphia PA,Philadelphia,Pennsylvania,USA,North America,39.95,-75.17,Integrated hardware and software solutions for incorporating artificial intelligence (AI) into radio frequency (RF) and wireless systems
+6,Veracity Protocol,New York NY,New York,New York,USA,North America,40.71,-74.01,Tamper-proof product authentication technology
+7,SyncFab,San Leandro CA,San Leandro,California,USA,North America,37.73,-122.16,A&D specialty parts supply chain platform secured by blockchain
+8,Orbital Sidekick,San Francisco CA,San Francisco,California,USA,North America,37.77,-122.42,Space-based oil leak detection and classification
+9,Launcher (A Vast Company),Hawthorne CA,Hawthorne,California,USA,North America,33.89,-118.35,High performance small satellite launcher
+10,C4 Systems,Tel Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Augmented reality for pilot situational awareness
+11,Sightec,Tel Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Vision-based navigation & real-time analytics for autonomous UAVs
+12,Crypta Labs,London UK,London,,UK,Europe,51.51,-0.13,Quantum Random Number Generators for encryption
+13,AnsuR,Fomebu Norway,Fornebu,,Norway,Europe,59.9,10.62,99% bandwidth savings on ISR photo/video communications
+14,Clarvoyant,Pasadena CA,Pasadena,California,USA,North America,34.15,-118.14,Holographic engineering and design platform
+15,Momentus,Santa Clara CA,Santa Clara,California,USA,North America,37.35,-121.95,In-space satellites last-mile delivery
+16,Skyloom,San Francisco CA,San Francisco,California,USA,North America,37.77,-122.42,Fiberless Space-to-Earth communications
+17,Spaceit,Tartu Estonia,Tartu,,Estonia,Europe,58.38,26.72,Cloud-based mission control system for small satellites
+18,Prime Lightworks,Culver City CA,Culver City,California,USA,North America,34.02,-118.4,Propellant-less electric propulsion for satellites
+19,Red 6,Santa Monica CA,Santa Monica,California,USA,North America,34.02,-118.49,"Augmented reality outdoors in high-speed, dynamic environments"
+20,Internest,Paris France,Paris,,France,Europe,48.86,2.35,Precise positioning for automatic landing
+21,EVA,Brooklyn NY,Brooklyn,New York,USA,North America,40.65,-73.95,Commercial Drone Docking Station
+22,Hionos,Grenoble France,Grenoble,,France,Europe,45.19,5.72,Fail-safe & certifiable drone autopilot
+23,Ampaire,Los Angeles CA,Los Angeles,California,USA,North America,34.05,-118.24,Transforming Aviation with Zero Emission Aircraft
+24,Corenova,Santa Monica CA,Santa Monica,California,USA,North America,34.02,-118.49,Cognitive communications assurance
+25,Sen,London UK,London,,UK,Europe,51.51,-0.13,4K camera for space operations & Earth Observation
+26,Optisys,West Jordan UT,West Jordan,Utah,USA,North America,40.6,-111.99,Automated antenna design & manufacturing
+27,Whitefox Defense Technologies,San Luis Obispo CA,San Luis Obispo,California,USA,North America,35.28,-120.66,Counter-drone and Remote ID for drone airspace security
+28,Natilus,Richmond CA,Richmond,California,USA,North America,37.94,-122.35,Autonomous freight drone
+29,WiN MS,Orsay France,Orsay,,France,Europe,48.7,2.19,Wire Network Monitoring Solutions
+30,Limatech,Toulouse France,Toulouse,,France,Europe,43.6,1.44,Aerospace Grade Lithium-Iron Batteries
+31,Atomic-6,Atlanta GA,Atlanta,Georgia,USA,North America,33.75,-84.39,Next Generation Composite Manufacturing
+32,First Resonance,Los Angeles CA,Los Angeles,California,USA,North America,34.05,-118.24,Manufacturing 4.0 Project Management Software
+33,precursor SPC,Seattle WA,Seattle,Washington,USA,North America,47.61,-122.33,Earthquake & Space Weather Forecasting Platform
+34,Nebula Space Enterprise,San Diego CA,San Diego,California,USA,North America,32.72,-117.15,Stealth-Mode Space Infrastructure Developer
+35,Near Earth Autonomy,Pittsburgh PA,Pittsburgh,Pennsylvania,USA,North America,40.44,-79.99,Navigation & Sensing For Autonomous Flight
+36,SeRo Systems,Germany,Unknown,,Germany,Europe,0.0,0.0,Software-defined Radar for a safe Air Traffic Control
+37,Odys Aviation,Long Beach United States,Long Beach,California,USA,North America,33.77,-118.19,
+38,Robotic Skies,"Salt Lake City, Utah, USA",Salt Lake City,Utah,USA,North America,40.76,-111.89,Aviation-Grade Maintenance for Unmanned Aerial Vehicles
+39,F-Drones,Singapore Singapore,Singapore,,Singapore,Asia,1.35,103.82,Drones as a Service for Maritime Logistics
+40,Morpheus Space,"Dresden, Germany",Dresden,Saxony,Germany,Europe,51.05,13.74,Miniaturized Electric Thrusters for Proximity Operations
+41,Modularity Space,"Daytona Beach, FL, USA",Daytona Beach,Florida,USA,North America,29.21,-81.02,Modular Satellite Constellation For Satellite-As-A-Service
+42,114AI,USA USA,Unknown,,USA,North America,0.0,0.0,Data Fusion for Space Domain Awareness
+43,Archangel Lightworks,"London, UK",London,,UK,Europe,51.51,-0.13,"Secure, High Volume Laser Communications"
+44,Infinidome,"Caesarea, Israel",Caesarea,,Israel,Asia,32.5,34.9,Anti-GPS Jamming Protection
+45,ResilienX,"Syracuse, NY, USA",Syracuse,New York,USA,North America,43.05,-76.15,In-Time Aviation Safety Management Solutions
+46,FuelX,"Aiken, South Carolina, USA",Aiken,South Carolina,USA,North America,33.56,-81.72,Materials-based Solid-State Hydrogen Fuel & Fuel Cell Power Systems
+47,Aletiq,"Paris, France",Paris,,France,Europe,48.86,2.35,Technical Data Management Software for Industry 4.0
+48,Emproof,Netherlands Netherlands,Unknown,,Netherlands,Europe,0.0,0.0,Innovative cybersecurity software for embedded systems
+49,Evitado,Hamburg Germany,Hamburg,,Germany,Europe,53.55,9.99,Automating airside operations
+50,Sirius Space Services,Paris France,Paris,,France,Europe,48.86,2.35,Low-cost Reusable Micro-Launcher
+51,Prométhée,Aix-en-Provence France,Aix-en-Provence,,France,Europe,43.53,5.45,Multiple-source Earth Observation Satellite Constellation
+52,Interstellar Lab,Paris France,Paris,,France,Europe,48.86,2.35,Environmentally-controlled modules for sustainable farming on Earth and life-support in space
+53,Reflex Aerospace,Munich GERMANY,Munich,Bavaria,Germany,Europe,48.14,11.58,"Customized, high-performance small-satellite platforms, delivered at high speed"
+54,ArcSpace,Ile-de-France region FRANCE,Paris,Île-de-France,France,Europe,48.86,2.35,Building In-Orbit Space Infrastructure
+55,Hybrogines,Ile-de-France region FRANCE,Paris,Île-de-France,France,Europe,48.86,2.35,Redefine space access for small satellites
+56,Stratolia,Ile-de-France region FRANCE,Paris,Île-de-France,France,Europe,48.86,2.35,HAPS with persistent high-resolution imagery
+57,AndroMach,Ile-de-France region FRANCE,Paris,Île-de-France,France,Europe,48.86,2.35,Space launcher
+58,Aerospace Digital Standards Services,Ile-de-France region FRANCE,Paris,Île-de-France,France,Europe,48.86,2.35,Platform delivering smart standards to be integrated in an aerospace industry environment for computer aided compliance.
+59,Sylphaero,"Mérignac, Nouvelle-Aquitaine France",Mérignac,Nouvelle-Aquitaine,France,Europe,44.83,-0.64,100% electric plasma-based jet engines
+60,Univity,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,Very low Earth orbit constellation enabling global connectivity
+61,Windlair,"Toulouse, Occitanie France",Toulouse,Occitanie,France,Europe,43.6,1.44,High-capacity UAV for industry needs
+62,Disaitek,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,AI applied to Earth observation to fight against environmental crimes
+63,Aerix Systems,"Mérignac, Nouvelle-Aquitaine France",Mérignac,Nouvelle-Aquitaine,France,Europe,44.83,-0.64,"100% omnidirectional, ultra-fast, ultra-maneuverable drones"
+64,SpaceLocker,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,Flexible hosting of payloads in orbit with access to high end systems
+65,Arkane,"Brest, Bretagne France",Brest,Bretagne,France,Europe,48.39,-4.49,AI-empowered wireless connectivity for the future aerospace industry
+66,Meoss,"Toulouse, Occitanie France",Toulouse,Occitanie,France,Europe,43.6,1.44,Earth observation to monitor water for agriculture
+67,ColibrITD,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,Quantum computing as a service for end-users
+68,StatInf,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,Patented statistics for safe & efficient embedded software
+69,Delfox,"Bordeaux, Nouvelle-Aquitaine France",Bordeaux,Nouvelle-Aquitaine,France,Europe,44.84,-0.58,The first AI-based platform to design autonomous systems
+70,HyprSpace,"Bordeaux, Nouvelle-Aquitaine France",Bordeaux,Nouvelle-Aquitaine,France,Europe,44.84,-0.58,Hybrid rocket engine & space launcher
+71,Miratlas,"Pertuis, Provence-Alpes-Cote d’Azur France",Pertuis,Provence-Alpes-Côte d'Azur,France,Europe,43.69,5.5,Atmospheric characterization of clouds and turbulences
+72,Rise,"Poitiers, Nouvelle-Aquitaine France",Poitiers,Nouvelle-Aquitaine,France,Europe,46.58,0.34,Network optimization software for electric air taxi
+73,CAPS,Ile-de-France region France,Paris,Île-de-France,France,Europe,48.86,2.35,Autonomous smart eVTOL for Urban Air Mobility
+74,Latitude,"Reims, Grand-Est France",Reims,Grand Est,France,Europe,49.26,4.03,Launcher and infrastructure dedicated to nanosats operators
+75,Orbital Paradigm,Madrid Spain,Madrid,,Spain,Europe,40.42,-3.7,"Create a new category of spacecraft, one that is modular, reusable and refuellable directly in space"
+76,WeSpace Technologies,Ra'anana Israel,Ra'anana,,Israel,Asia,32.18,34.87,Developing autonomously flying robotic systems for deep-space exploration
+77,IDDK,Tokyo Japan,Tokyo,,Japan,Asia,35.69,139.69,Proprietary semiconductor sensor-based microscopic observation technology MID for pace bio-experiment services
+78,SpacEngineer,Coimbra Portugal,Coimbra,,Portugal,Europe,40.21,-8.43,Building customized impact protection solutions for the aeronautic and aerospace sectors
+79,Magellanic,Tel-Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Zero-Trust Cybersecurity for Critical Infrastructure
+80,Astroteq.ai,Rzeszow Poland,Rzeszów,,Poland,Europe,50.04,22.0,AI earthquake prediction and avoidance system
+81,OrbitAID Aerospace,Bangalo India,Bangalore,Karnataka,India,Asia,12.97,77.59,In-space spacecraft refueling services
+82,NOAH,Tel-Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Satellite data for crop insurance
+83,Bitrezus,Athens Greece,Athens,,Greece,Europe,37.98,23.73,Cybersecurity focusing on securing space operations and satellite data
+84,Climate Eyes,Tel-Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Satellite based Decision Support Systems for Climate Challenges
+85,Flyvercity,Natanya Israel,Natanya,,Israel,Asia,32.32,34.86,5G-based UAS high-density flights safety services
+86,C Space,Tel-Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Space-Based Public Planetary Observation Center
+87,Polyfos 3D,Yokne'am Israel,Yokne'am,,Israel,Asia,32.66,35.11,On-demand printing of parts
+88,Onnes Cryogenics,Hyderabad India,Hyderabad,Telangana,India,Asia,17.39,78.49,Carbon Fiber Composite Cryogenic Fuel Tanks
+89,SharkSense Ltd.,Tel-Aviv Israel,Tel Aviv,,Israel,Asia,32.09,34.79,Passive sensors that detect unintentional EMI emissions
+90,Taramandal,Vizag India,Visakhapatnam,Andhra Pradesh,India,Asia,17.69,83.22,Mapping Technologies from Earth to Orbit
+91,WEFLO,South Korea,Unknown,,South Korea,Asia,0.0,0.0,Contactless AAM maintenance systems.
