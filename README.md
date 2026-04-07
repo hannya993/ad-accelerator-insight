@@ -4,7 +4,7 @@ An interactive portfolio intelligence dashboard built to map and analyse
 the Starburst Aerospace & Defense accelerator's 91 portfolio companies 
 across 19 countries and 3 continents.
 
-**Live Dashboard → [View Here](https://yourusername.github.io/ad-accelerator-insight)**
+**Live Dashboard → [View Here](https://hannya993.github.io/ad-accelerator-insight)**
 
 ---
 
